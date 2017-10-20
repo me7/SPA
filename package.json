@@ -1,0 +1,12 @@
+{
+  "name": "SPA",
+  "version": "1.0.0",
+  "description": "single page application",
+  "main": "index.js",
+  "repository": "git@github.com:me7/SPA.git",
+  "author": "me7 <gampolt@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "wright": "^0.8.0"
+  }
+}
